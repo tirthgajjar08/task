@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "tgb",
+      "fullName": "we",
+      "number": "1234",
+      "email": "trkgjjr7@gmail.com",
+      "password": "qwe",
+      "cpassword": "qwe"
+    },
+    {
+      "id": "qwe",
+      "fullName": "op",
+      "number": "0889",
+      "email": "trkgjjr7@gmail.com",
+      "password": "poi",
+      "cpassword": "poi"
+    }
+  ]
+}

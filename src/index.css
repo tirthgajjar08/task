@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(244, 244, 244);
+}
+/* login page design */
+
+.login-box-style {
+  background-color: white;
+  margin-top: 70px;
+  border-radius: 8px;
+}
+
+.login-box-style img {
+  width: 93%;
+  height: 70%;
+}
+.login-box-style label {
+  margin-top: 4px;
+  font-size: 16.5px;
+}
+
+.login-box-style .login_text_box {
+  margin-top: 10px;
+  font-size: 16.5px;
+  width: 75%;
+  border-radius: 5px;
+  padding: 10px;
+  border: 0px 0px 1px 0px solid black !important;
+}
+.login-box-style .login_button_style {
+  background-color: black;
+  color: white;
+  padding: 2% 15%;
+  margin-left: 18.3%;
+  margin-top: 5%;
+  border-radius: 8px;
+}
+
+.login-box-style .login_text_box:focus {
+  border: 1px solid darkblue;
+  /* background-color: #ff0000; */
+}
